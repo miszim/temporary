@@ -1,0 +1,16 @@
+# ninja log v5
+2	2417	7064004692345812	CMakeFiles/untitled8.dir/main.cpp.obj	8a674b53940b88d1
+2	211	7065010385097789	build.ninja	95271572eeeb7c
+2417	3500	7064004703195670	untitled8.exe	17da8342531da270
+7	577	7064004674019215	CMakeFiles/untitled8.dir/Controller.cpp.obj	c456c4713a68daa6
+19	839	7065899134017434	CMakeFiles/untitled8.dir/User.cpp.obj	9e415743fc3adba0
+10	841	7065899134027452	CMakeFiles/untitled8.dir/Controller.cpp.obj	c456c4713a68daa6
+15	842	7065899134017434	CMakeFiles/untitled8.dir/main.cpp.obj	8a674b53940b88d1
+24	2744	7065899153015836	CMakeFiles/untitled8.dir/Services.cpp.obj	50d52f7eeb9afccd
+17	692	7065900490596243	CMakeFiles/untitled8.dir/User.cpp.obj	9e415743fc3adba0
+8	710	7065900490776406	CMakeFiles/untitled8.dir/main.cpp.obj	8a674b53940b88d1
+12	2585	7065900509471776	CMakeFiles/untitled8.dir/Services.cpp.obj	50d52f7eeb9afccd
+3	650	7065900672560797	CMakeFiles/untitled8.dir/Controller.cpp.obj	c456c4713a68daa6
+3	566	7065901262873936	CMakeFiles/untitled8.dir/main.cpp.obj	8a674b53940b88d1
+3	556	7065901977301645	CMakeFiles/untitled8.dir/main.cpp.obj	8a674b53940b88d1
+556	1648	7065901988171543	untitled8.exe	acf7ad5a225e2c18
